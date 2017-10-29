@@ -1,0 +1,53 @@
+.typed {
+    min-height: 150px;
+    display: block;
+}
+
+#dropzone {
+    border: 5px dashed #7D7DFF;
+    width:  200px;
+    height: 100px;
+    border-radius: 5px;
+    width: 100%;
+    cursor: pointer;
+}
+
+#dropzone:hover {
+    background: rgba(255, 255, 255, 0.45);
+    border-color: rgba(125, 125, 255, 0.45);
+}
+
+#uploadIcon {
+    width: 100px;
+}
+
+#downloadUrl{
+    color: #5A2EA1;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+.box__dragndrop,
+.box__uploading,
+.box__success,
+.box__error {
+  display: none;
+}
+
+div.col-sm-6 {
+    word-wrap: break-word;  
+}
+
+.hashBox {
+    display: none;
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
