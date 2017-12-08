@@ -1,10 +1,7 @@
-FROM mdakram28/openart
+FROM mdakram28/openart:latest
 EXPOSE 8545
 EXPOSE 8080
 EXPOSE 4001
 EXPOSE 5001
 
-ENTRYPOINT ipfs daemon &
-ENTRYPOINT cd /root/openart
-ENTRYPOINT python -m SimpleHTTPServer 80 &
-ENTRYPOINT testrpc
+ENTRYPOINT bash /root/openart/start.sh
