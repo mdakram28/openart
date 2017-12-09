@@ -38,7 +38,7 @@ IPFS and the Blockchain are a perfect match! You can address large amounts of da
 # Screenshots
 
 
-![Alt text](http://github.com/mdakram28/openart/Screenshota.png?raw=True)
+![Alt text](http://github.com/mdakram28/openart/blob/master/Screenshota.png?raw=True)
 
-![Alt text](http://github.com/mdakram28/openart/Screenshotb.png?raw=True)
+![Alt text](http://github.com/mdakram28/openart/blob/master/Screenshotb.png?raw=True)
 
