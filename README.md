@@ -36,7 +36,9 @@ IPFS brings the freedom and independent spirit of the web at full force—and at
 IPFS and the Blockchain are a perfect match! You can address large amounts of data with IPFS, and place the immutable, permanent IPFS links into a blockchain transaction. This timestamps and secures your content, without having to put the data on the chain itself.
 
 # Screenshots
-[!.](https://github.com/mdakram28/openart/blob/master/Screenshot%20(6).png)
-![Alt text](http://github.com/mdakram28/openart/Screenshot%(6).png?raw=True)
 
+
+![Alt text](http://github.com/mdakram28/openart/Screenshota.png?raw=True)
+
+![Alt text](http://github.com/mdakram28/openart/Screenshotb.png?raw=True)
 
